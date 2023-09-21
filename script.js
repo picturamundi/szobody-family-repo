@@ -1,0 +1,1 @@
+var frame = document.getElementById("iframe").contentDocument.getElementsByClassName("-cO-212").style.display = "none";
