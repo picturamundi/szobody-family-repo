@@ -12,3 +12,7 @@ h1 {
     background-color: rgb(50, 50, 50) !important;
     border-color: rgb(50, 50, 50) !important;
 }
+
+li.form-line:not(.form-line-column) .form-input-wide[data-layout=half] {
+    width: 100% !important;
+}
