@@ -1,3 +1,17 @@
+#label_14.form-label-top {
+    margin-bottom: 24px !important;
+}
+
+#id_1 {
+    margin-top: 0px !important;
+    padding-top: 0px !important;
+}
+
+li#id-14.form-line,
+.form-line {
+    margin-bottom: 0px !important;
+}
+
 body {
     background-color: rgb(245, 245, 245) !important;
 }
@@ -15,4 +29,8 @@ h1 {
 
 li.form-line:not(.form-line-column) .form-input-wide[data-layout=half] {
     width: 100% !important;
+}
+
+.formFooter {
+    display: none !important;
 }
